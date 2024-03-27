@@ -9,7 +9,7 @@ npm install
 Step 2:
 
 ```
-npm start
+npm run start
 ```
 
 # Project structure:
